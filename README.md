@@ -1,4 +1,4 @@
-# Sindhi-ESC
+# 7.5K_Sindhi_News_Corpus.zip
 # Sindhi News Text Dataset for NLP Tasks
 [Ali Nawaz]. ([2025]). Sindhi News Text Dataset. [Version]. [URL]
 
@@ -10,7 +10,7 @@ A collection of 7,500 Sindhi news articles for text summarization and pre-proces
 - **License**: [Recommended: CC-BY 4.0 or MIT]
 - **Publication Date**: [2025-05-15]
 - **Last Updated**: [2025-05-15]
-- **Size**: [11MB]
+- **Size**: [24MB]
 - **Format**: Raw text files (.txt)
 - **Language**: Sindhi (Arabic script)
 - **Number of Documents**: 7,500
